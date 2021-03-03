@@ -5,7 +5,23 @@
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
 
-- 🔭 I’m currently working on Android Studio Projects
+---
+
+- 🔭 I’m currently working on Android Development using Java
+  
+  
+---
+
+#### Languages and Tools 🛠
+
+![Java](https://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Android](https://img.shields.io/badge/-Android%20Studio-a4c639?style=flat-square&logo=android-studio&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-4e77d5?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-e5ac07?style=flat-square&logo=mysql&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
+---  
   
 <details>
   
