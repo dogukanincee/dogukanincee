@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
 
-<img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=000000&color=42b6f5&line=42b6f5&point=FFFFFF&hide_border=true" />
+<img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=00FFFFFF&color=42b6f5&line=42b6f5&point=FFFFFF&hide_border=true" />
 
 #### Languages &nbsp;
 
