@@ -1,16 +1,10 @@
 # [Doğukan İnce](https://github.com/dogukanincee/dogukanincee)
 
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/overview.svg)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
-
----
-
-- 🔭 I’m currently working on Android Development using Java
-  
-  
----
 
 #### Languages and Tools ### 🛠 &nbsp;
 
@@ -19,18 +13,11 @@
 ![C++](https://img.shields.io/badge/-C++-4e77d5?style=flat-square&logo=c%2B%2B&logoColor=ffffff)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-e5ac07?style=flat-square&logo=mysql&logoColor=ffffff)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ---  
   
