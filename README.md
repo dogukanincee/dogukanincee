@@ -4,7 +4,7 @@
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
-
+<img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 #### Languages and Tools ### 🛠 &nbsp;
 
@@ -40,5 +40,3 @@
   </a>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 </details>
-
-<img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
