@@ -41,6 +41,4 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 </details>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hendrasob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
 <img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
