@@ -49,7 +49,7 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
 	</a>
 	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="firebase" width="40" height="40"/>
+		<img src="https://www.iconninja.com/files/634/988/972/google-firebase-icon.svg" alt="firebase" width="40" height="40"/>
 	</a>
 	<a href="https://developers.google.com/maps" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Maps_icon.svg" alt="googlemapsapi" width="40" height="40"/>
