@@ -7,8 +7,7 @@
 
 <img alt="Dogukan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dogukanincee&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-#### Languages and Tools 🛠 &nbsp;
-
+#### Languages &nbsp;
 
 <p align="left">
 	<a href="https://www.oracle.com/java/" target="_blank">
@@ -26,7 +25,14 @@
 	<a href="https://www.php.net/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
 	</a>
-	</br>
+</p>
+
+---  
+
+#### Tools 🛠 &nbsp;
+
+
+<p align="left">
 	<a href="https://www.mysql.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
 	</a>
