@@ -1,7 +1,6 @@
 # [Doğukan İnce](https://github.com/dogukanincee/dogukanincee)
 
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/overview.svg)
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/languages.svg)
