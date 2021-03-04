@@ -1,8 +1,6 @@
 # [Doğukan İnce](https://github.com/dogukanincee/dogukanincee)
 
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/overview.svg)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
 ![](https://github.com/dogukanincee/dogukanincee/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
@@ -39,5 +37,5 @@
   <a href="https://twitter.com/dogukanincee/">
   <img align="left" alt="https://twitter.com/dogukanincee/ | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614793296~hmac=d8ec129cc1fe055192fd1d7976ea9d51" />
   </a>
-  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 </details>
