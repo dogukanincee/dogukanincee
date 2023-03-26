@@ -1,9 +1,5 @@
-<h3 align="center">
-Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="noreferrer">Dogukan</a> 👋
-</h3>
-
 <h2 align="center">
-I'm an Android Developer 💻
+Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="noreferrer">Dogukan</a>. I'm an Android Developer 💻
 </h2> 
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
@@ -17,9 +13,7 @@ I'm an Android Developer 💻
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dogukanincee)](https://github.com/dogukanincee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanincee&layout=compact)](https://github.com/dogukanincee)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dogukanincee)](https://github.com/dogukanincee)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanincee&layout=compact)](https://github.com/dogukanincee)
 
 ## 📝 Latest Blog Posts
 
