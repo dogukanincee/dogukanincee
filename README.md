@@ -17,5 +17,7 @@ Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="norefe
 
 ## 📝 Latest Blog Posts
 
+
+- [Harnessing the Power of Room Database Library in Android Development]([https://dogukanincee.medium.com/unit-testing-in-android-a-guide-of-using-junit-mockito-mockk-and-espresso-d7a47819ada5](https://dogukanincee.medium.com/harnessing-the-power-of-room-database-library-in-android-development-4f6b97befb49))
 - [Unit Testing in Android: A Guide of Using JUnit, Mockito, MockK, and Espresso](https://dogukanincee.medium.com/unit-testing-in-android-a-guide-of-using-junit-mockito-mockk-and-espresso-d7a47819ada5)
 - [Implementing the MVVM Architecture in Android with Kotlin: A Guide to Model, View and ViewModel Classes](https://dogukanincee.medium.com/implementing-the-mvvm-architecture-in-android-a-guide-to-model-view-and-viewmodel-classes-dbcb72f07337)
