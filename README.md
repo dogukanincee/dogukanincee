@@ -13,7 +13,13 @@ Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="norefe
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dogukanincee)](https://github.com/dogukanincee)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanincee&layout=compact)](https://github.com/dogukanincee)
+<div style="display:flex; justify-content:center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanincee&theme=dark&show_icons=true&locale=en" 
+style="margin-right: 10px; height: 200px;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanincee&theme=dark&show_icons=true&locale=en&layout=compact" style="height: 200px; margin-right: 10px;"/>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dogukanincee&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&dates=16A7EB&ring=EB0000&currStreakNum=EBEBEB&background=000000&sideLabels=04EB00&currStreakLabel=11EB18&fire=CCEB00&border=000000&sideNums=CBBFEB&stroke=4E00EB)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
 
