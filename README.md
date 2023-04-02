@@ -15,7 +15,7 @@ Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="norefe
 
 <div style="display:flex; justify-content:center;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanincee&theme=dark&show_icons=true&locale=en" 
-style="margin-right: 10px; height: 200px;"/>
+style="margin-right: 0px; height: 200px;"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogukanincee&theme=dark&show_icons=true&locale=en&layout=compact" style="height: 200px; margin-right: 10px;"/>
 </div>
 
