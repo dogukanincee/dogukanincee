@@ -4,6 +4,13 @@ Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="norefe
 
 ![](https://komarev.com/ghpvc/?username=dogukanincee&label=Profile+Views)
 
+## 📝 Latest Blog Posts
+
+- [Kotlin CheatSheet by ChatGPT](https://medium.com/@dogukanincee/kotlin-cheatsheet-by-chatgpt-14af35e07e8a)
+- [Harnessing the Power of Room Database Library in Android Development](https://dogukanincee.medium.com/harnessing-the-power-of-room-database-library-in-android-development-4f6b97befb49)
+- [Unit Testing in Android: A Guide of Using JUnit, Mockito, MockK, and Espresso](https://dogukanincee.medium.com/unit-testing-in-android-a-guide-of-using-junit-mockito-mockk-and-espresso-d7a47819ada5)
+- [Implementing the MVVM Architecture in Android with Kotlin: A Guide to Model, View and ViewModel Classes](https://dogukanincee.medium.com/implementing-the-mvvm-architecture-in-android-a-guide-to-model-view-and-viewmodel-classes-dbcb72f07337)
+
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/dogukanincee/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
@@ -28,11 +35,3 @@ Hi there, I'm <a href="https://www.dogukanince.com/" target="_blank" rel="norefe
     </p>
   </div>
 </div>
-
-
-## 📝 Latest Blog Posts
-
-- [Kotlin CheatSheet by ChatGPT](https://medium.com/@dogukanincee/kotlin-cheatsheet-by-chatgpt-14af35e07e8a)
-- [Harnessing the Power of Room Database Library in Android Development](https://dogukanincee.medium.com/harnessing-the-power-of-room-database-library-in-android-development-4f6b97befb49)
-- [Unit Testing in Android: A Guide of Using JUnit, Mockito, MockK, and Espresso](https://dogukanincee.medium.com/unit-testing-in-android-a-guide-of-using-junit-mockito-mockk-and-espresso-d7a47819ada5)
-- [Implementing the MVVM Architecture in Android with Kotlin: A Guide to Model, View and ViewModel Classes](https://dogukanincee.medium.com/implementing-the-mvvm-architecture-in-android-a-guide-to-model-view-and-viewmodel-classes-dbcb72f07337)
